@@ -202,11 +202,7 @@ var Results = function (_Component) {
             null,
             this.checkGains()
           ),
-          _react2.default.createElement(
-            'a',
-            { href: '#', className: 'main-btn active' },
-            'Create account to keep track of profits'
-          ),
+        
           _react2.default.createElement(
             'a',
             { href: '#', className: 'main-btn active',
